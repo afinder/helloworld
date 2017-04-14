@@ -1,0 +1,312 @@
+﻿<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>zhonghs-pc</Author>
+  <LastAuthor>Administrator</LastAuthor>
+  <Created>2008-09-11T17:22:52Z</Created>
+  <LastSaved>2016-06-30T08:15:50Z</LastSaved>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>5715</WindowHeight>
+  <WindowWidth>12765</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>105</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Tahoma" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s56" ss:Name="常规 2">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s58" ss:Parent="s56">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="20" x:FullColumns="1"  >
+   <Column ss:AutoFitWidth="0" ss:Width="93.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="101.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="80.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="84.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="97.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="85.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="81"/>
+   <Column ss:AutoFitWidth="0" ss:Width="82.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="88.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="79.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="79.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="79.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="79.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="79.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="79.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="79.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="79.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="79.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="79.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="79.5"/>
+
+   <Row>
+    <Cell ss:StyleID="s58"><Data ss:Type="String">姓名</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="String">ID</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="String">审批状态</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="String">审批类型</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="String">上一审批人</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="String">当前处理人</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="String">职场名称</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="String">审批流名称</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="String">申请来源</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="String">申请创建人</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="String">申请时间</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="String">申请类型</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="String">申请原因</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="String">开始时间</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="String">结束时间</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="String">当年(月)已请天数</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="String">当年(月)免参会天数上限</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="String">下年(月)已请天数</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="String">下年(月)免参会天数上限</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="String">审批记录</Data></Cell>	
+   </Row>
+  <Row ss:AutoFitHeight="0">
+<Cell><Data ss:Type="String">连捷锟</Data></Cell>
+<Cell><Data ss:Type="String">35260200081607</Data></Cell>
+<Cell><Data ss:Type="String">审批中</Data></Cell>
+<Cell><Data ss:Type="String">免参会</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_zc0(营销服务部)</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_zc123(漳平区)</Data></Cell>
+<Cell><Data ss:Type="String">龙岩漳平收展第一职场</Data></Cell>
+<Cell><Data ss:Type="String">龙岩漳平收展第二职场1-2</Data></Cell>
+<Cell><Data ss:Type="String">参会</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_ly(龙岩市)</Data></Cell>
+<Cell><Data ss:Type="String">2017-04-12 15:22:13</Data></Cell>
+<Cell><Data ss:Type="String">因婚免参会</Data></Cell>
+<Cell><Data ss:Type="String">HHHH</Data></Cell>
+<Cell><Data ss:Type="String">2017-03-01</Data></Cell>
+<Cell><Data ss:Type="String">2017-03-02</Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String">15</Data></Cell>
+<Cell><Data ss:Type="String">-</Data></Cell>
+<Cell><Data ss:Type="String">-</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_zc0(营销服务部):2017-04-12 15:41:35确认;  tynfj_zc2(龙岩漳平收展第二职场):2017-04-12 15:40:14确认;  </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+<Cell><Data ss:Type="String">李华琴</Data></Cell>
+<Cell><Data ss:Type="String">35260200081571</Data></Cell>
+<Cell><Data ss:Type="String">审批中</Data></Cell>
+<Cell><Data ss:Type="String">活动参会</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_zc0(营销服务部)</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_zc123(漳平区)</Data></Cell>
+<Cell><Data ss:Type="String">龙岩漳平收展第一职场</Data></Cell>
+<Cell><Data ss:Type="String">龙岩漳平收展第二职场3</Data></Cell>
+<Cell><Data ss:Type="String">参会</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_ly(龙岩市)</Data></Cell>
+<Cell><Data ss:Type="String">2017-04-12 15:22:13</Data></Cell>
+<Cell><Data ss:Type="String">活动参会</Data></Cell>
+<Cell><Data ss:Type="String">WWWWW</Data></Cell>
+<Cell><Data ss:Type="String">2017-03-01</Data></Cell>
+<Cell><Data ss:Type="String">2017-03-05</Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String">-</Data></Cell>
+<Cell><Data ss:Type="String">-</Data></Cell>
+<Cell><Data ss:Type="String">-</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_zc0(营销服务部):2017-04-12 15:41:35确认;  tynfj_zc2(龙岩漳平收展第二职场):2017-04-12 15:40:14确认;  </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+<Cell><Data ss:Type="String">朱雪妹</Data></Cell>
+<Cell><Data ss:Type="String">35260200081305</Data></Cell>
+<Cell><Data ss:Type="String">审批中</Data></Cell>
+<Cell><Data ss:Type="String">免参会</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_zc0(营销服务部)</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_zc123(漳平区)</Data></Cell>
+<Cell><Data ss:Type="String">龙岩漳平收展第一职场</Data></Cell>
+<Cell><Data ss:Type="String">龙岩漳平收展第二职场1-2</Data></Cell>
+<Cell><Data ss:Type="String">参会</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_ly(龙岩市)</Data></Cell>
+<Cell><Data ss:Type="String">2017-04-12 15:22:13</Data></Cell>
+<Cell><Data ss:Type="String">因丧免参会</Data></Cell>
+<Cell><Data ss:Type="String">SSSSS</Data></Cell>
+<Cell><Data ss:Type="String">2017-03-01</Data></Cell>
+<Cell><Data ss:Type="String">2017-03-02</Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String">10</Data></Cell>
+<Cell><Data ss:Type="String">-</Data></Cell>
+<Cell><Data ss:Type="String">-</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_zc0(营销服务部):2017-04-12 15:41:35确认;  tynfj_zc2(龙岩漳平收展第二职场):2017-04-12 15:40:14确认;  </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+<Cell><Data ss:Type="String">陈勇炼</Data></Cell>
+<Cell><Data ss:Type="String">35260200081719</Data></Cell>
+<Cell><Data ss:Type="String">审批中</Data></Cell>
+<Cell><Data ss:Type="String">免参会</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_zc0(营销服务部)</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_zc123(漳平区)</Data></Cell>
+<Cell><Data ss:Type="String">龙岩漳平收展第一职场</Data></Cell>
+<Cell><Data ss:Type="String">龙岩漳平收展第一职场3</Data></Cell>
+<Cell><Data ss:Type="String">参会</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_ly(龙岩市)</Data></Cell>
+<Cell><Data ss:Type="String">2017-04-12 15:34:08</Data></Cell>
+<Cell><Data ss:Type="String">因婚免参会</Data></Cell>
+<Cell><Data ss:Type="String">HHHH</Data></Cell>
+<Cell><Data ss:Type="String">2017-03-01</Data></Cell>
+<Cell><Data ss:Type="String">2017-03-03</Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String">15</Data></Cell>
+<Cell><Data ss:Type="String">-</Data></Cell>
+<Cell><Data ss:Type="String">-</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_zc0(营销服务部):2017-04-12 15:53:15确认;  tynfj_zc1(龙岩漳平收展第一职场):2017-04-12 15:51:42确认;  </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+<Cell><Data ss:Type="String">许勇</Data></Cell>
+<Cell><Data ss:Type="String">35260200081695</Data></Cell>
+<Cell><Data ss:Type="String">审批中</Data></Cell>
+<Cell><Data ss:Type="String">免参会</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_zc0(营销服务部)</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_zc123(漳平区)</Data></Cell>
+<Cell><Data ss:Type="String">龙岩漳平收展第一职场</Data></Cell>
+<Cell><Data ss:Type="String">龙岩漳平收展第一职场3</Data></Cell>
+<Cell><Data ss:Type="String">参会</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_ly(龙岩市)</Data></Cell>
+<Cell><Data ss:Type="String">2017-04-12 15:34:08</Data></Cell>
+<Cell><Data ss:Type="String">因婚免参会</Data></Cell>
+<Cell><Data ss:Type="String">HHHH</Data></Cell>
+<Cell><Data ss:Type="String">2017-03-01</Data></Cell>
+<Cell><Data ss:Type="String">2017-03-03</Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String">15</Data></Cell>
+<Cell><Data ss:Type="String">-</Data></Cell>
+<Cell><Data ss:Type="String">-</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_zc0(营销服务部):2017-04-12 15:53:15确认;  tynfj_zc1(龙岩漳平收展第一职场):2017-04-12 15:51:42确认;  </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+<Cell><Data ss:Type="String">张振海</Data></Cell>
+<Cell><Data ss:Type="String">35260200081678</Data></Cell>
+<Cell><Data ss:Type="String">审批中</Data></Cell>
+<Cell><Data ss:Type="String">免参会</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_zc0(营销服务部)</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_zc123(漳平区)</Data></Cell>
+<Cell><Data ss:Type="String">龙岩漳平收展第一职场</Data></Cell>
+<Cell><Data ss:Type="String">龙岩漳平收展第一职场3</Data></Cell>
+<Cell><Data ss:Type="String">参会</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_ly(龙岩市)</Data></Cell>
+<Cell><Data ss:Type="String">2017-04-12 15:34:08</Data></Cell>
+<Cell><Data ss:Type="String">因产（生育）免参会</Data></Cell>
+<Cell><Data ss:Type="String">CCCC</Data></Cell>
+<Cell><Data ss:Type="String">2017-03-01</Data></Cell>
+<Cell><Data ss:Type="String">2017-03-03</Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String">150</Data></Cell>
+<Cell><Data ss:Type="String">-</Data></Cell>
+<Cell><Data ss:Type="String">-</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_zc0(营销服务部):2017-04-12 15:53:15确认;  tynfj_zc1(龙岩漳平收展第一职场):2017-04-12 15:51:42确认;  </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+<Cell><Data ss:Type="String">蔡宏胜</Data></Cell>
+<Cell><Data ss:Type="String">35260200081677</Data></Cell>
+<Cell><Data ss:Type="String">审批中</Data></Cell>
+<Cell><Data ss:Type="String">免参会</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_zc0(营销服务部)</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_zc123(漳平区)</Data></Cell>
+<Cell><Data ss:Type="String">龙岩漳平收展第一职场</Data></Cell>
+<Cell><Data ss:Type="String">龙岩漳平收展第一职场3</Data></Cell>
+<Cell><Data ss:Type="String">参会</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_ly(龙岩市)</Data></Cell>
+<Cell><Data ss:Type="String">2017-04-12 15:34:08</Data></Cell>
+<Cell><Data ss:Type="String">因婚免参会</Data></Cell>
+<Cell><Data ss:Type="String">HHHH</Data></Cell>
+<Cell><Data ss:Type="String">2017-03-01</Data></Cell>
+<Cell><Data ss:Type="String">2017-03-03</Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String">15</Data></Cell>
+<Cell><Data ss:Type="String">-</Data></Cell>
+<Cell><Data ss:Type="String">-</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_zc0(营销服务部):2017-04-12 15:53:15确认;  tynfj_zc1(龙岩漳平收展第一职场):2017-04-12 15:51:42确认;  </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0">
+<Cell><Data ss:Type="String">易美琴</Data></Cell>
+<Cell><Data ss:Type="String">35260200081651</Data></Cell>
+<Cell><Data ss:Type="String">审批中</Data></Cell>
+<Cell><Data ss:Type="String">免参会</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_zc0(营销服务部)</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_zc123(漳平区)</Data></Cell>
+<Cell><Data ss:Type="String">龙岩漳平收展第一职场</Data></Cell>
+<Cell><Data ss:Type="String">龙岩漳平收展第一职场3</Data></Cell>
+<Cell><Data ss:Type="String">参会</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_ly(龙岩市)</Data></Cell>
+<Cell><Data ss:Type="String">2017-04-12 15:34:08</Data></Cell>
+<Cell><Data ss:Type="String">因病免参会</Data></Cell>
+<Cell><Data ss:Type="String">BBBB</Data></Cell>
+<Cell><Data ss:Type="String">2017-03-01</Data></Cell>
+<Cell><Data ss:Type="String">2017-03-03</Data></Cell>
+<Cell><Data ss:Type="String">0</Data></Cell>
+<Cell><Data ss:Type="String">30</Data></Cell>
+<Cell><Data ss:Type="String">-</Data></Cell>
+<Cell><Data ss:Type="String">-</Data></Cell>
+<Cell><Data ss:Type="String">tynfj_zc0(营销服务部):2017-04-12 15:53:15确认;  tynfj_zc1(龙岩漳平收展第一职场):2017-04-12 15:51:42确认;  </Data></Cell>
+</Row>
+</Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>6</ActiveRow>
+     <ActiveCol>10</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet2">
+  <Table ss:ExpandedColumnCount="1" x:FullColumns="1"
+  ss:DefaultColumnWidth="54" >
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet3">
+  <Table ss:ExpandedColumnCount="1" x:FullColumns="1"
+    ss:DefaultColumnWidth="54" ss:DefaultRowHeight="14.25">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
